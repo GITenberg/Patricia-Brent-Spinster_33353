@@ -1,0 +1,31 @@
+_repo: Patricia-Brent-Spinster_33353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jenkins, Herbert George
+    birthdate: 1876
+    deathdate: 1923
+    gutenberg_agent_id: '1211'
+    url: http://www.gutenberg.org/2009/agents/1211
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_George_Jenkins
+description: Patricia Brent is a spinster of twenty-four. And yet, everyone who knew
+  her already took it for granted that she would never marry.
+gutenberg_issued: '2010-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Boardinghouses -- Fiction'
+- !lcsh 'Single women -- Fiction'
+title: Patricia Brent, Spinster
+url: http://www.gutenberg.org/ebooks/33353
